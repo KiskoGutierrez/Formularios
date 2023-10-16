@@ -1,2 +1,2 @@
-# Formularios-JS
+# Formularios
 Formulario realizado con campos obligatorios
